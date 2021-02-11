@@ -103,18 +103,9 @@ body {
     font-family: Raleway;
     color: white;
     background-color: #52311e25;
-    position: absolute;
-    left: 0;
-    right: 0;
-  }
-
-  .aboutfooter {
-    text-align: center;
-    font-family: Raleway;
-    color: white;
-    background-color: #52311e25;
-    position: absolute;
+    position: sticky;
     left: 0;
     right: 0;
     bottom: 0;
+    margin-top: 20px;
   }
